@@ -1,0 +1,7 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ™Ä8¯ïÜ¨¾/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ•é‹8³ïÜ¨¾/
+r
+java:S1192"UDefine a constant instead of duplicating this literal "Bangalore, Karnataka" 3 times.(ôÊÏŸ8´ïÜ¨¾/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”Ÿ¾¤üÿÿÿÿ8”šŞ¨¾/
